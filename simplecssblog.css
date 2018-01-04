@@ -1,0 +1,20 @@
+body{
+  margin-left: 25%;
+  margin-right:25%;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  color:#b3b3b3;
+}
+h5{
+  color:#3366ff;
+}
+p{
+  color:#000099;
+}
+.article{
+  border: 20px solid gray;
+  margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
