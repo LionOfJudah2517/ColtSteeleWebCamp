@@ -1,0 +1,17 @@
+*{
+font-family: 'Lobster', cursive;
+}
+.navbar-brand {
+  font-size: 2em;
+}
+
+.nav-link {
+font-size: 1.2em;
+}
+
+.carousel-caption {
+  top:5%;
+  bottom:auto;
+  font-size: 3em;
+  color: #cccccc;
+}
