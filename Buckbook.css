@@ -12,6 +12,26 @@ font-size: 1.2em;
 .carousel-caption {
   top:5%;
   bottom:auto;
-  font-size: 3em;
-  color: #cccccc;
+  color:white;
+}
+
+.hero{
+    font-size: 3em;
+    color: #cccccc;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: lightgrey;
+  }
+
+.medcaption{
+  padding-top:1%;
+  padding-bottom: 1%;
+  font-size: 2em;
+}
+.medimage{
+  height:381px;
+  width:100%;
 }
